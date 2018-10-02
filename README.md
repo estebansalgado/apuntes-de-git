@@ -12,9 +12,6 @@
 ### configurando Git por primera vez
 ```
     Make sure you can run code --help from the command line and you get help.
-        if you do not see help, please follow these steps:
-            Mac: Select Shell Command: Install 'Code' command in path from the Command Palette.
-            Windows: Make sure you selected Add to PATH during the installation.
-            Linux: Make sure you installed Code via our new .deb or .rpm packages.
-            hola
+    if you do not see help, please follow these steps:
+    Mac: Select Shell Command: Install 'Code' command in path from the Command Palette
 ```
