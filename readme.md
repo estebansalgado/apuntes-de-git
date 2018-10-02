@@ -3,7 +3,7 @@
 ## zonas de Git
  1. directorio de trabajo
  2. area de preparacion 
- 3. directorio git 
+ 3. directorio git
 
 ### flujo de trabajo basico en Git
 1:modificas una serie de archivos en tu directorio de trabajo.
