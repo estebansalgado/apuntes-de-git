@@ -11,3 +11,6 @@ Muestra la salida del historial con el formato que indiquemos
 `git log --before"2018-03-10 11:20"`:Muestra los commits realizados antes de la fecha especificada
 
 las banderas del comando `git log` se pueden usar juntas segun convenga, por ejemplo:  git log --pretty=format:"%h - %an, %ar:%s" --before "2018-10-03 09:40:00" --after "2018-10-01 20:00"
+
+`git log  --oneline`
+este comando nos muestra el historial en una sola linea por commit.
