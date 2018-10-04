@@ -15,3 +15,5 @@
     if you do not see help, please follow these steps:
     Mac: Select Shell Command: Install 'Code' command in path from the Command Palette
 ```
+
+esta line fue creada en la rama master
