@@ -12,3 +12,6 @@ con este comando vinculamos nuestro repositorio local con github
 7. Crear un pull request con la nueva rama de mi repositorio en Github.
 8.esperar que el administrador del repositorio acepte mis cambios 
 
+## Varios repositorios remotos
+Podemos configurar un mismo proyecto para sintonizar cambios con varios repositorios remotos
+

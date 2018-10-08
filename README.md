@@ -19,6 +19,4 @@
 ## Aportes desde otra cuenta 
 este texto fue aportado desde la cuenta salgadosilva
 
-## Varios repositorios remotos
-Podemos configurar un mismo proyecto para sintonizar cambios con varios repositorios remotos
 
